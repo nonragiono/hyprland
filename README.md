@@ -1,4 +1,4 @@
 # My Hyprland config files
-My waybar configuration
+My hyprland configuration
 
 A collection of my configuration file for hyprland
